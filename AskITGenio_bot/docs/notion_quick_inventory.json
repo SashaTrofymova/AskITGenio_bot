@@ -1,0 +1,621 @@
+{
+  "generated_at": "2026-06-01T11:55:29.270Z",
+  "root": {
+    "id": "5b5efb1a-90db-82bf-b1fe-01d822442f07",
+    "title": "AskITGenio sources / Источники для бота",
+    "url": "https://www.notion.so/AskITGenio-sources-5b5efb1a90db82bfb1fe01d822442f07",
+    "last_edited_time": "2026-06-01T11:46:00.000Z"
+  },
+  "direct_blocks_count": 5,
+  "direct": [
+    {
+      "id": "372efb1a-90db-8014-9edb-c330b35cf771",
+      "type": "child_page",
+      "text": "Справочник тренера (1)",
+      "title": "Справочник тренера (1)",
+      "has_children": true,
+      "page": {
+        "title": "Справочник тренера (1)",
+        "url": "https://www.notion.so/1-372efb1a90db80149edbc330b35cf771",
+        "block_count_sampled": 51,
+        "child_blocks": [
+          {
+            "id": "372efb1a-90db-8117-8023-d42749639d8c",
+            "type": "child_page",
+            "text": "Все о трудоустройстве",
+            "title": "Все о трудоустройстве",
+            "has_children": true
+          },
+          {
+            "id": "372efb1a-90db-810f-b2ef-c7ece85d119b",
+            "type": "child_page",
+            "text": "Как установить ВПН",
+            "title": "Как установить ВПН",
+            "has_children": true
+          },
+          {
+            "id": "372efb1a-90db-81dc-9314-c17a8adc3462",
+            "type": "child_page",
+            "text": "Карьерное развитие и внутренние переходы",
+            "title": "Карьерное развитие и внутренние переходы",
+            "has_children": true
+          },
+          {
+            "id": "372efb1a-90db-81a0-810a-e0277bf1eb2c",
+            "type": "child_page",
+            "text": "Методические рекомендации",
+            "title": "Методические рекомендации",
+            "has_children": true
+          },
+          {
+            "id": "372efb1a-90db-8130-bc94-c3107eb63f26",
+            "type": "child_page",
+            "text": "Технические моменты и их решения",
+            "title": "Технические моменты и их решения",
+            "has_children": true
+          },
+          {
+            "id": "372efb1a-90db-8112-b199-c3c34e18bf38",
+            "type": "child_page",
+            "text": "6 принципов педагогики 26940dee497d81a7b9b8fdcb7eecbeed",
+            "title": "6 принципов педагогики 26940dee497d81a7b9b8fdcb7eecbeed",
+            "has_children": true
+          },
+          {
+            "id": "372efb1a-90db-813d-ba17-e7129fb35e54",
+            "type": "child_page",
+            "text": "Slack 26940dee497d818c8690cd6d6e4b18c1",
+            "title": "Slack 26940dee497d818c8690cd6d6e4b18c1",
+            "has_children": true
+          },
+          {
+            "id": "372efb1a-90db-8128-85be-d3073b027a9a",
+            "type": "child_page",
+            "text": "Айтигеник-стикеры 31940dee497d80cc8a60fbe766ebe684",
+            "title": "Айтигеник-стикеры 31940dee497d80cc8a60fbe766ebe684",
+            "has_children": true
+          },
+          {
+            "id": "372efb1a-90db-8105-86ef-f03899104777",
+            "type": "child_page",
+            "text": "Академия тренеров Itgenio 2b140dee497d8008bad7f7d9a71bb46c",
+            "title": "Академия тренеров Itgenio 2b140dee497d8008bad7f7d9a71bb46c",
+            "has_children": true
+          },
+          {
+            "id": "372efb1a-90db-816b-a6ff-c7fe1a6b7366",
+            "type": "child_page",
+            "text": "Вакансии 26940dee497d810fa786e39e06f64624",
+            "title": "Вакансии 26940dee497d810fa786e39e06f64624",
+            "has_children": true
+          },
+          {
+            "id": "372efb1a-90db-8158-acda-db665240b30f",
+            "type": "child_page",
+            "text": "Все о Гене 26940dee497d81df9080f0069d63c2ca",
+            "title": "Все о Гене 26940dee497d81df9080f0069d63c2ca",
+            "has_children": true
+          },
+          {
+            "id": "372efb1a-90db-8159-bc8e-e955e94d27d6",
+            "type": "child_page",
+            "text": "Все о расписании 26940dee497d81bbba84e93aafdee122",
+            "title": "Все о расписании 26940dee497d81bbba84e93aafdee122",
+            "has_children": true
+          },
+          {
+            "id": "372efb1a-90db-811c-8b92-cb831ba16777",
+            "type": "child_page",
+            "text": "Все о трудоустройстве 26940dee497d813ba23afc50994ea362",
+            "title": "Все о трудоустройстве 26940dee497d813ba23afc50994ea362",
+            "has_children": true
+          },
+          {
+            "id": "372efb1a-90db-81e5-9a4d-f3b7740b1876",
+            "type": "child_page",
+            "text": "Все отделы и руководители 26940dee497d815ea9a4ce2e14c8b3f4",
+            "title": "Все отделы и руководители 26940dee497d815ea9a4ce2e14c8b3f4",
+            "has_children": true
+          },
+          {
+            "id": "372efb1a-90db-8122-886b-c117c648a05f",
+            "type": "child_page",
+            "text": "Выбор трека обучения на послепробном посленовом за 2fe40dee497d802fa230f6aa98cd87eb",
+            "title": "Выбор трека обучения на послепробном посленовом за 2fe40dee497d802fa230f6aa98cd87eb",
+            "has_children": true
+          },
+          {
+            "id": "372efb1a-90db-819f-a375-e2fa74a75a66",
+            "type": "child_page",
+            "text": "Глоссарий “Айтигенио” 26940dee497d8158832cdd1b32cf95b5",
+            "title": "Глоссарий “Айтигенио” 26940dee497d8158832cdd1b32cf95b5",
+            "has_children": true
+          },
+          {
+            "id": "372efb1a-90db-8108-8fd0-dc881f6c2259",
+            "type": "child_page",
+            "text": "Для родителей и учеников 26940dee497d8194984adeb63ae3bc97",
+            "title": "Для родителей и учеников 26940dee497d8194984adeb63ae3bc97",
+            "has_children": true
+          },
+          {
+            "id": "372efb1a-90db-8146-806b-c353f4731598",
+            "type": "child_page",
+            "text": "Индивидуальный трек 26940dee497d81a09b97f5ce6ac15579",
+            "title": "Индивидуальный трек 26940dee497d81a09b97f5ce6ac15579",
+            "has_children": true
+          },
+          {
+            "id": "372efb1a-90db-8151-95c1-c330675877c2",
+            "type": "child_page",
+            "text": "Инструкция по заполнению профиля тренера 26940dee497d8195a30aec9ad48b2c9e",
+            "title": "Инструкция по заполнению профиля тренера 26940dee497d8195a30aec9ad48b2c9e",
+            "has_children": true
+          },
+          {
+            "id": "372efb1a-90db-8153-bd5d-ed924f4ae1f6",
+            "type": "child_page",
+            "text": "Инструкция по использованию доски Holst 27240dee497d80518778e3af5c325c6e",
+            "title": "Инструкция по использованию доски Holst 27240dee497d80518778e3af5c325c6e",
+            "has_children": true
+          },
+          {
+            "id": "372efb1a-90db-815c-9ce5-dea4ff53ef8b",
+            "type": "child_page",
+            "text": "Инструкция по работе с агрегатором нейросетей Chad 33340dee497d80b2b361d210cfa1dd16",
+            "title": "Инструкция по работе с агрегатором нейросетей Chad 33340dee497d80b2b361d210cfa1dd16",
+            "has_children": true
+          },
+          {
+            "id": "372efb1a-90db-81bb-8757-e7c6ccb9220f",
+            "type": "child_page",
+            "text": "Как быть крутым тренером 26940dee497d817cb0f7c1d3f770e4ac",
+            "title": "Как быть крутым тренером 26940dee497d817cb0f7c1d3f770e4ac",
+            "has_children": true
+          },
+          {
+            "id": "372efb1a-90db-81d0-9436-efcd08368644",
+            "type": "child_page",
+            "text": "Как выбрать направление для ребенка (математика) 30d40dee497d80d68ca5cf0aba2c7f75",
+            "title": "Как выбрать направление для ребенка (математика) 30d40dee497d80d68ca5cf0aba2c7f75",
+            "has_children": true
+          },
+          {
+            "id": "372efb1a-90db-81e4-bc9b-f66e38375f7a",
+            "type": "child_page",
+            "text": "Как выбрать направление для ребенка (русский язык) 30d40dee497d8027a32be18447c30c53",
+            "title": "Как выбрать направление для ребенка (русский язык) 30d40dee497d8027a32be18447c30c53",
+            "has_children": true
+          },
+          {
+            "id": "372efb1a-90db-81d9-a0a7-f2a05c3544ef",
+            "type": "child_page",
+            "text": "Как переводить деньги в Гене 26940dee497d81309fd8f22ff0305e45",
+            "title": "Как переводить деньги в Гене 26940dee497d81309fd8f22ff0305e45",
+            "has_children": true
+          },
+          {
+            "id": "372efb1a-90db-8152-9cd9-eabc17fb4090",
+            "type": "child_page",
+            "text": "Как поддерживать учеников в период подготовки к эк 26940dee497d808c9504f2d9c3ed6506",
+            "title": "Как поддерживать учеников в период подготовки к эк 26940dee497d808c9504f2d9c3ed6506",
+            "has_children": true
+          },
+          {
+            "id": "372efb1a-90db-81a6-bbab-fbd348d442d4",
+            "type": "child_page",
+            "text": "Как работать с популярными навыками и увлечениями  26940dee497d8117b2c1c990e97bfd2f",
+            "title": "Как работать с популярными навыками и увлечениями  26940dee497d8117b2c1c990e97bfd2f",
+            "has_children": true
+          },
+          {
+            "id": "372efb1a-90db-81ac-b769-d87bc5e14f81",
+            "type": "child_page",
+            "text": "Как работать с учениками с СДВГ 30d40dee497d8098ba78de5fb722d87c",
+            "title": "Как работать с учениками с СДВГ 30d40dee497d8098ba78de5fb722d87c",
+            "has_children": true
+          },
+          {
+            "id": "372efb1a-90db-81af-867c-d26d79030df6",
+            "type": "child_page",
+            "text": "Как ставить цели с учеником в ИФ 26940dee497d81fba4dfcb8cf6feff26",
+            "title": "Как ставить цели с учеником в ИФ 26940dee497d81fba4dfcb8cf6feff26",
+            "has_children": true
+          },
+          {
+            "id": "372efb1a-90db-8182-917f-e214e9c828e5",
+            "type": "child_page",
+            "text": "Как стать тренером групповых активностей 26940dee497d8106855ee91876778df7",
+            "title": "Как стать тренером групповых активностей 26940dee497d8106855ee91876778df7",
+            "has_children": true
+          },
+          {
+            "id": "372efb1a-90db-8121-8fb8-d78a47208067",
+            "type": "child_page",
+            "text": "Как тренеру предложить ученику психолога нейропсих 26940dee497d8024b02bd6e0cdaaa48c",
+            "title": "Как тренеру предложить ученику психолога нейропсих 26940dee497d8024b02bd6e0cdaaa48c",
+            "has_children": true
+          },
+          {
+            "id": "372efb1a-90db-81c0-9437-dacef6271c84",
+            "type": "child_page",
+            "text": "Как установить ВПН 26940dee497d81869ee3e05eb8903aa8",
+            "title": "Как установить ВПН 26940dee497d81869ee3e05eb8903aa8",
+            "has_children": true
+          },
+          {
+            "id": "372efb1a-90db-8166-91cb-c00f73f31efb",
+            "type": "child_page",
+            "text": "Карьерное развитие и внутренние переходы 26940dee497d81ee9fb2d6f03615b6f0",
+            "title": "Карьерное развитие и внутренние переходы 26940dee497d81ee9fb2d6f03615b6f0",
+            "has_children": true
+          },
+          {
+            "id": "372efb1a-90db-8121-8a6b-fee883a6f475",
+            "type": "child_page",
+            "text": "Куда написать #admin_support и #schedule 26940dee497d81e9acdcfbe1509cfb88",
+            "title": "Куда написать #admin_support и #schedule 26940dee497d81e9acdcfbe1509cfb88",
+            "has_children": true
+          },
+          {
+            "id": "372efb1a-90db-81da-9e25-da43d19bd272",
+            "type": "child_page",
+            "text": "Методические рекомендации 26f40dee497d804f8085eff3454b7315",
+            "title": "Методические рекомендации 26f40dee497d804f8085eff3454b7315",
+            "has_children": true
+          },
+          {
+            "id": "372efb1a-90db-8197-984b-c4ef028f08d2",
+            "type": "child_page",
+            "text": "Направления 26940dee497d8197b10dcf4afe048cf1",
+            "title": "Направления 26940dee497d8197b10dcf4afe048cf1",
+            "has_children": true
+          },
+          {
+            "id": "372efb1a-90db-81a2-9948-f1daba1bd996",
+            "type": "child_page",
+            "text": "Оплата за занятия 26940dee497d8102897ae145cde39892",
+            "title": "Оплата за занятия 26940dee497d8102897ae145cde39892",
+            "has_children": true
+          },
+          {
+            "id": "372efb1a-90db-818d-9904-d6d3934bb6c5",
+            "type": "child_page",
+            "text": "От испытательного срока до аудита “ПУТЬ ТРЕНЕРА” 26940dee497d81e69c59e4c91ae26b55",
+            "title": "От испытательного срока до аудита “ПУТЬ ТРЕНЕРА” 26940dee497d81e69c59e4c91ae26b55",
+            "has_children": true
+          },
+          {
+            "id": "372efb1a-90db-81cc-8027-e71103f5bc5d",
+            "type": "child_page",
+            "text": "Ответы на неудобные вопросы 26940dee497d8125b198c70e75dad172",
+            "title": "Ответы на неудобные вопросы 26940dee497d8125b198c70e75dad172",
+            "has_children": true
+          },
+          {
+            "id": "372efb1a-90db-819e-8ad9-da52260fbc5f",
+            "type": "child_page",
+            "text": "Отпуск и его виды 26940dee497d817788c0fc97102cfd87",
+            "title": "Отпуск и его виды 26940dee497d817788c0fc97102cfd87",
+            "has_children": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "372efb1a-90db-8069-a547-c663c4dfca49",
+      "type": "child_page",
+      "text": "Справочник тренера ",
+      "title": "Справочник тренера ",
+      "has_children": true,
+      "page": {
+        "title": "Справочник тренера ",
+        "url": "https://www.notion.so/372efb1a90db8069a547c663c4dfca49",
+        "block_count_sampled": 58,
+        "child_blocks": [
+          {
+            "id": "372efb1a-90db-81c0-a4c9-e3df38172ea1",
+            "type": "heading_1",
+            "text": "Справочник тренера",
+            "has_children": false
+          },
+          {
+            "id": "372efb1a-90db-81b8-a0a5-fe79250fecd3",
+            "type": "paragraph",
+            "text": "👋🏻 Добро пожаловать в Справочник тренера!\nЗдесь ты найдешь всю информацию про занятия, учеников, материалы, Гену и другие инструкции.\n**Если захочешь перейти к общей информации для всех сотрудников - просто нажми сюда Company Home.\nДля любых вопросов или предложений по изменению или добавлению информации, свяжитесь с @HR Лена Маковик*",
+            "has_children": false
+          },
+          {
+            "id": "372efb1a-90db-818f-b999-cc8ed476e3ff",
+            "type": "divider",
+            "text": "",
+            "has_children": false
+          },
+          {
+            "id": "372efb1a-90db-8179-896a-fd08c5042638",
+            "type": "heading_2",
+            "text": "Главное",
+            "has_children": false
+          },
+          {
+            "id": "372efb1a-90db-8146-9419-f3d5086ac0d6",
+            "type": "divider",
+            "text": "",
+            "has_children": false
+          },
+          {
+            "id": "372efb1a-90db-81a3-af5d-c6b0ddb2d3cf",
+            "type": "paragraph",
+            "text": "От испытательного срока до аудита “ПУТЬ ТРЕНЕРА” 26940dee497d81e69c59e4c91ae26b55",
+            "has_children": false
+          },
+          {
+            "id": "372efb1a-90db-81a9-b5a3-fb236211dc47",
+            "type": "paragraph",
+            "text": "Процесс преподавания 26940dee497d81bb895cc4eabd09fc48",
+            "has_children": false
+          },
+          {
+            "id": "372efb1a-90db-8149-9e91-d58b63b2974e",
+            "type": "paragraph",
+            "text": "Методические рекомендации 26f40dee497d804f8085eff3454b7315",
+            "has_children": false
+          },
+          {
+            "id": "372efb1a-90db-8147-92b0-fea739c157fc",
+            "type": "paragraph",
+            "text": "Направления 26940dee497d8197b10dcf4afe048cf1",
+            "has_children": false
+          },
+          {
+            "id": "372efb1a-90db-813a-aac0-d5f6af19d7a8",
+            "type": "paragraph",
+            "text": "Все о расписании 26940dee497d81bbba84e93aafdee122",
+            "has_children": false
+          },
+          {
+            "id": "372efb1a-90db-81bf-9e48-f9988efe8d96",
+            "type": "paragraph",
+            "text": "Все о Гене 26940dee497d81df9080f0069d63c2ca",
+            "has_children": false
+          },
+          {
+            "id": "372efb1a-90db-81e2-ad2b-ce21044b8ee0",
+            "type": "paragraph",
+            "text": "Академия тренеров Itgenio 2b140dee497d8008bad7f7d9a71bb46c",
+            "has_children": false
+          },
+          {
+            "id": "372efb1a-90db-8122-a520-f1432a3b6a67",
+            "type": "paragraph",
+            "text": "Про субъектность 2b240dee497d8095a018ed7e670788e7",
+            "has_children": false
+          },
+          {
+            "id": "372efb1a-90db-81cc-a795-d9c6ddea58e0",
+            "type": "paragraph",
+            "text": "Slack 26940dee497d818c8690cd6d6e4b18c1",
+            "has_children": false
+          },
+          {
+            "id": "372efb1a-90db-81de-8a5a-e17c31769437",
+            "type": "heading_2",
+            "text": "Инструкции",
+            "has_children": false
+          },
+          {
+            "id": "372efb1a-90db-81e7-9912-c8b6b26306dd",
+            "type": "divider",
+            "text": "",
+            "has_children": false
+          },
+          {
+            "id": "372efb1a-90db-818e-a3bd-d03219f7de8d",
+            "type": "paragraph",
+            "text": "Технические моменты и их решения 26940dee497d814a8749c14144a54088",
+            "has_children": false
+          },
+          {
+            "id": "372efb1a-90db-810d-8191-cf88dc46afd4",
+            "type": "paragraph",
+            "text": "Инструкция по заполнению профиля тренера 26940dee497d8195a30aec9ad48b2c9e",
+            "has_children": false
+          },
+          {
+            "id": "372efb1a-90db-8102-af04-c745b9ff0c5e",
+            "type": "paragraph",
+            "text": "Куда написать #admin_support и #schedule 26940dee497d81e9acdcfbe1509cfb88Куда написать #admin_support и #schedule 26940dee497d81e9acdcfbe1509cfb88Куда написать #admin_support и #schedule 26940dee497d81e9acdcfbe1509cfb88Куда написать #admin_support и #schedule 26940dee497d81e9acdcfbe1509cfb88Куда написать #admin_support и #schedule 26940dee497d81e9acdcfbe1509cfb88",
+            "has_children": false
+          },
+          {
+            "id": "372efb1a-90db-81e8-8cb2-c56f9aceb0e6",
+            "type": "paragraph",
+            "text": "Как ставить цели с учеником в ИФ 26940dee497d81fba4dfcb8cf6feff26",
+            "has_children": false
+          },
+          {
+            "id": "372efb1a-90db-8143-a300-e82aef6f249c",
+            "type": "paragraph",
+            "text": "Выбор трека обучения на послепробном посленовом за 2fe40dee497d802fa230f6aa98cd87eb",
+            "has_children": false
+          },
+          {
+            "id": "372efb1a-90db-81eb-934b-e3cf006fe210",
+            "type": "paragraph",
+            "text": "Индивидуальный трек 26940dee497d81a09b97f5ce6ac15579",
+            "has_children": false
+          },
+          {
+            "id": "372efb1a-90db-8151-8790-da4043536f5b",
+            "type": "paragraph",
+            "text": "Как установить ВПН 26940dee497d81869ee3e05eb8903aa8",
+            "has_children": false
+          },
+          {
+            "id": "372efb1a-90db-813a-9036-f3efae5a63b9",
+            "type": "paragraph",
+            "text": "Про перевод времени для тренеров 26940dee497d81dcb4f2f72c0792052d",
+            "has_children": false
+          },
+          {
+            "id": "372efb1a-90db-816d-9a97-fdfc82f7c1a4",
+            "type": "paragraph",
+            "text": "Как стать тренером групповых активностей 26940dee497d8106855ee91876778df7",
+            "has_children": false
+          },
+          {
+            "id": "372efb1a-90db-8107-9f41-fd2f30ad7ada",
+            "type": "paragraph",
+            "text": "Промокод 26f40dee497d80f194b3d9c0b3555785",
+            "has_children": false
+          },
+          {
+            "id": "372efb1a-90db-811b-8fca-dafcf0e54f02",
+            "type": "paragraph",
+            "text": "Инструкция по использованию доски Holst 27240dee497d80518778e3af5c325c6e",
+            "has_children": false
+          },
+          {
+            "id": "372efb1a-90db-8113-b196-e7a67b307f74",
+            "type": "paragraph",
+            "text": "Инструкция по работе с агрегатором нейросетей Chad 33340dee497d80b2b361d210cfa1dd16",
+            "has_children": false
+          },
+          {
+            "id": "372efb1a-90db-81fe-a651-d2119ce1d124",
+            "type": "heading_2",
+            "text": "Полезности",
+            "has_children": false
+          },
+          {
+            "id": "372efb1a-90db-8116-900f-c0ae35a516cc",
+            "type": "divider",
+            "text": "",
+            "has_children": false
+          },
+          {
+            "id": "372efb1a-90db-8140-b770-fd0061cebef5",
+            "type": "paragraph",
+            "text": "Все отделы и руководители 26940dee497d815ea9a4ce2e14c8b3f4",
+            "has_children": false
+          },
+          {
+            "id": "372efb1a-90db-8145-b643-e5de03bac47e",
+            "type": "paragraph",
+            "text": "Глоссарий “Айтигенио” 26940dee497d8158832cdd1b32cf95b5",
+            "has_children": false
+          },
+          {
+            "id": "372efb1a-90db-8159-8c55-fe9083654f17",
+            "type": "paragraph",
+            "text": "Как быть крутым тренером 26940dee497d817cb0f7c1d3f770e4ac",
+            "has_children": false
+          },
+          {
+            "id": "372efb1a-90db-81af-b9b0-d5b3aaec94e3",
+            "type": "paragraph",
+            "text": "Как работать с популярными навыками и увлечениями  26940dee497d8117b2c1c990e97bfd2f",
+            "has_children": false
+          },
+          {
+            "id": "372efb1a-90db-81af-bb19-dd83b454f8ec",
+            "type": "paragraph",
+            "text": "6 принципов педагогики 26940dee497d81a7b9b8fdcb7eecbeed",
+            "has_children": false
+          },
+          {
+            "id": "372efb1a-90db-8185-87c3-f79ff5f666fd",
+            "type": "paragraph",
+            "text": "Советы психолога 26940dee497d81d4a22cef985db6283e",
+            "has_children": false
+          },
+          {
+            "id": "372efb1a-90db-81f8-b8ed-ea88024bd93f",
+            "type": "paragraph",
+            "text": "Форма благодарности коллегам 26940dee497d81bdbc72d702b4fa51c2",
+            "has_children": false
+          },
+          {
+            "id": "372efb1a-90db-819c-88f0-d6a2bf6ba457",
+            "type": "paragraph",
+            "text": "Как переводить деньги в Гене 26940dee497d81309fd8f22ff0305e45",
+            "has_children": false
+          },
+          {
+            "id": "372efb1a-90db-81cd-8a42-e9c034131cf9",
+            "type": "paragraph",
+            "text": "Сообщества 26940dee497d81d39c2df228ab148807",
+            "has_children": false
+          },
+          {
+            "id": "372efb1a-90db-8160-8b1a-fedecea36c9f",
+            "type": "paragraph",
+            "text": "Что будет летом со школой 26940dee497d815e8b5fc79c562cb536",
+            "has_children": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "372efb1a-90db-80ce-9083-e07ca43a914b",
+      "type": "child_page",
+      "text": "Сервисы, доступные школе (безопасная версия)",
+      "title": "Сервисы, доступные школе (безопасная версия)",
+      "has_children": true,
+      "page": {
+        "title": "Сервисы, доступные школе (безопасная версия)",
+        "url": "https://www.notion.so/372efb1a90db80ce9083e07ca43a914b",
+        "block_count_sampled": 1,
+        "child_blocks": [
+          {
+            "id": "0d1efb1a-90db-82b9-862e-01cdede2764e",
+            "type": "child_database",
+            "text": "🖥️ services_other для Хакатона",
+            "title": "🖥️ services_other для Хакатона",
+            "has_children": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "372efb1a-90db-80e3-add7-ff79e3275f19",
+      "type": "child_page",
+      "text": "Материалы Академии тренеров",
+      "title": "Материалы Академии тренеров",
+      "has_children": true,
+      "page": {
+        "title": "Материалы Академии тренеров",
+        "url": "https://www.notion.so/372efb1a90db80e3add7ff79e3275f19",
+        "block_count_sampled": 3,
+        "child_blocks": [
+          {
+            "id": "372efb1a-90db-81f0-931e-e5f624524531",
+            "type": "child_page",
+            "text": "Главная",
+            "title": "Главная",
+            "has_children": true
+          },
+          {
+            "id": "372efb1a-90db-8100-816c-d757ff23471e",
+            "type": "child_database",
+            "text": "Untitled 2b640dee497d80959c20d522cedb459b",
+            "title": "Untitled 2b640dee497d80959c20d522cedb459b",
+            "has_children": false
+          },
+          {
+            "id": "372efb1a-90db-80be-a228-dc7466281e5e",
+            "type": "paragraph",
+            "text": "",
+            "has_children": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "372efb1a-90db-80cd-aa5f-d8bb86c22d40",
+      "type": "paragraph",
+      "text": "",
+      "has_children": false
+    }
+  ]
+}

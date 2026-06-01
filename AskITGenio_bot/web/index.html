@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AskITGenio Bot</title>
+    <link rel="stylesheet" href="./src/styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <aside class="sidebar">
+        <div>
+          <p class="eyebrow">AskITGenio</p>
+          <h1>База ответов для команды</h1>
+          <p class="lead">
+            Ответы собираются из таблицы, карточек направлений Гены и индекса Notion.
+          </p>
+        </div>
+
+        <section class="panel">
+          <h2>Что подключено</h2>
+          <dl class="status-list">
+            <div>
+              <dt>Таблица</dt>
+              <dd id="kbStatus">проверяю...</dd>
+            </div>
+            <div>
+              <dt>Все листы</dt>
+              <dd id="sheetsStatus">проверяю...</dd>
+            </div>
+            <div>
+              <dt>Гена</dt>
+              <dd id="genaStatus">проверяю...</dd>
+            </div>
+            <div>
+              <dt>Notion</dt>
+              <dd id="notionStatus">проверяю...</dd>
+            </div>
+          </dl>
+        </section>
+
+        <section class="panel">
+          <h2>Быстрые проверки</h2>
+          <div class="quick-list">
+            <button type="button" data-prompt="С какого возраста можно на Scratch?">Возраст Scratch</button>
+            <button type="button" data-prompt="Кто заведующий Scratch?">Заведующий Scratch</button>
+            <button type="button" data-prompt="У ученика Scratch пишет WebGL not supported">WebGL в Scratch</button>
+            <button type="button" data-prompt="Не работают горячие клавиши в Illustrator">Illustrator</button>
+            <button type="button" data-prompt="Как установить VPN?">VPN</button>
+          </div>
+        </section>
+      </aside>
+
+      <section class="chat">
+        <header class="chat-header">
+          <div>
+            <p class="eyebrow">Локальный прототип</p>
+            <h2>Проверка ответа</h2>
+          </div>
+          <span class="pill" id="serverStatus">загрузка</span>
+        </header>
+
+        <div class="messages" id="messages" aria-live="polite">
+          <article class="message bot">
+            <div class="message-label">Бот</div>
+            <p>
+              Напишите вопрос так, как его может задать тренер, админ или менеджер.
+              Я верну готовый человеческий ответ и покажу, откуда взяла данные.
+            </p>
+          </article>
+        </div>
+
+        <form class="composer" id="askForm">
+          <textarea
+            id="questionInput"
+            rows="3"
+            placeholder="Например: что сказать родителю про направление Scratch?"
+            required
+          ></textarea>
+          <button type="submit">Спросить</button>
+        </form>
+      </section>
+    </main>
+
+    <script type="module" src="./src/app.js"></script>
+  </body>
+</html>

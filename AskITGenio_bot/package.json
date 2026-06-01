@@ -1,0 +1,14 @@
+{
+  "name": "askitgenio-bot",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node web/server.mjs",
+    "dev": "node web/server.mjs",
+    "sanitize:gena": "node scripts/sanitize_gena_directions.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

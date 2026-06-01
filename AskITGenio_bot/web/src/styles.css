@@ -1,0 +1,281 @@
+:root {
+  color-scheme: light;
+  font-family:
+    Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    sans-serif;
+  background: #f5f7fb;
+  color: #172033;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+}
+
+button,
+textarea {
+  font: inherit;
+}
+
+.app-shell {
+  display: grid;
+  grid-template-columns: minmax(280px, 360px) minmax(0, 1fr);
+  min-height: 100vh;
+}
+
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 32px;
+  background: #ffffff;
+  border-right: 1px solid #dfe5ef;
+}
+
+.eyebrow {
+  margin: 0 0 8px;
+  color: #5b6b86;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+h1,
+h2 {
+  margin: 0;
+  line-height: 1.15;
+}
+
+h1 {
+  font-size: 31px;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+.lead {
+  margin: 16px 0 0;
+  color: #44536d;
+  line-height: 1.55;
+}
+
+.panel {
+  border: 1px solid #dfe5ef;
+  border-radius: 8px;
+  padding: 18px;
+  background: #fbfcff;
+}
+
+.panel h2 {
+  margin-bottom: 14px;
+  font-size: 16px;
+}
+
+.status-list {
+  display: grid;
+  gap: 12px;
+  margin: 0;
+}
+
+.status-list div {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.status-list dt {
+  color: #5b6b86;
+}
+
+.status-list dd {
+  margin: 0;
+  font-weight: 700;
+  text-align: right;
+}
+
+.quick-list {
+  display: grid;
+  gap: 10px;
+}
+
+.quick-list button,
+.composer button {
+  border: 0;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 700;
+}
+
+.quick-list button {
+  padding: 10px 12px;
+  background: #edf2fb;
+  color: #22304a;
+  text-align: left;
+}
+
+.quick-list button:hover {
+  background: #dfe8f8;
+}
+
+.chat {
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  min-width: 0;
+  padding: 28px;
+}
+
+.chat-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding-bottom: 20px;
+}
+
+.pill {
+  border-radius: 999px;
+  padding: 8px 12px;
+  background: #eef1f7;
+  color: #4b5870;
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.pill.ready {
+  background: #e8f6ed;
+  color: #217343;
+}
+
+.error-pill {
+  background: #fdecec;
+  color: #b42318;
+}
+
+.messages {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  overflow: auto;
+  padding: 6px 4px 24px;
+}
+
+.message {
+  max-width: 860px;
+  border-radius: 8px;
+  padding: 16px 18px;
+  line-height: 1.55;
+  box-shadow: 0 8px 24px rgba(39, 53, 82, 0.08);
+}
+
+.message p {
+  margin: 0;
+}
+
+.message.user {
+  align-self: flex-end;
+  background: #2463eb;
+  color: #ffffff;
+}
+
+.message.bot {
+  align-self: flex-start;
+  background: #ffffff;
+  border: 1px solid #dfe5ef;
+}
+
+.message-label {
+  margin-bottom: 8px;
+  color: inherit;
+  font-size: 12px;
+  font-weight: 800;
+  opacity: 0.75;
+  text-transform: uppercase;
+}
+
+.sources {
+  margin-top: 14px;
+  border-top: 1px solid #e8edf5;
+  padding-top: 12px;
+}
+
+.sources summary {
+  cursor: pointer;
+  color: #33445f;
+  font-weight: 800;
+}
+
+.sources ul {
+  display: grid;
+  gap: 10px;
+  margin: 12px 0 0;
+  padding-left: 18px;
+}
+
+.sources span {
+  display: block;
+  color: #5b6b86;
+}
+
+.composer {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 12px;
+  padding-top: 18px;
+  border-top: 1px solid #dfe5ef;
+}
+
+.composer textarea {
+  width: 100%;
+  resize: vertical;
+  min-height: 72px;
+  max-height: 180px;
+  border: 1px solid #ccd5e4;
+  border-radius: 8px;
+  padding: 12px 14px;
+  outline: none;
+}
+
+.composer textarea:focus {
+  border-color: #2463eb;
+  box-shadow: 0 0 0 3px rgba(36, 99, 235, 0.14);
+}
+
+.composer button {
+  align-self: end;
+  padding: 14px 18px;
+  background: #172033;
+  color: #ffffff;
+}
+
+.muted {
+  color: #5b6b86;
+}
+
+.error {
+  color: #b42318;
+}
+
+@media (max-width: 860px) {
+  .app-shell {
+    grid-template-columns: 1fr;
+  }
+
+  .sidebar {
+    border-right: 0;
+    border-bottom: 1px solid #dfe5ef;
+  }
+
+  .composer {
+    grid-template-columns: 1fr;
+  }
+
+  .composer button {
+    width: 100%;
+  }
+}
